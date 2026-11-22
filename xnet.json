@@ -1,0 +1,13 @@
+{
+  "node_id": "xnode-9079d0e7",
+  "domains": {
+    "hello.xnet": "hello"
+  },
+  "sites": {
+    "hello": {
+      "title": "Hello XNet",
+      "description": "Первый сайт XNet"
+    }
+  },
+  "peers": []
+}
